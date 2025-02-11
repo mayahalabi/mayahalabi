@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE0MWtrbHZoaHJ3NWZtc203aHgxcjVsd2RyazVkaDl3czVkbTJ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qc0BxWM9TxljvJug2x/giphy.gif" width="100"/>
-  <br/>
-  
 </div>
 <div>
   <h1>
